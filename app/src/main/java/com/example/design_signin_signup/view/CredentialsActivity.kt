@@ -45,5 +45,13 @@ class CredentialsActivity : AppCompatActivity() {
 
     private fun observers() {
 
+        viewModel.startSignIn.observe(this) { startSignIn ->
+            if (startSignIn) viewPager.currentItem = 0
+        }
+
+        viewModel.startSignUp.observe(this) { startSignUp ->
+            if (startSignUp) viewPager.currentItem = 2
+        }
+
     }
 }

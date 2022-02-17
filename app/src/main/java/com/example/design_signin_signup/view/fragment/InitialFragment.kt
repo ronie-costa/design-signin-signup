@@ -25,6 +25,14 @@ class InitialFragment : Fragment() {
             ViewModelProvider(it!!)[CredentialsViewModel::class.java]
         }
 
+        binding.btnSignIn.setOnClickListener {
+            viewModel.navigationSignIn()
+        }
+
+        binding.btnSignUp.setOnClickListener {
+            viewModel.navigationSignUp()
+        }
+
         return binding.root
     }
 
