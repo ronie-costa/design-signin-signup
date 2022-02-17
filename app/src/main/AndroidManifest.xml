@@ -10,10 +10,10 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Design_signin_signup">
         <activity
-            android:name=".view.CredentialsActivity"
+            android:name=".view.MainActivity"
             android:exported="false" />
         <activity
-            android:name=".view.MainActivity"
+            android:name=".view.CredentialsActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
