@@ -6,6 +6,11 @@
         <entry key="..\:/AndroidStudioProjects/design_signin_signup/app/src/main/res/layout/activity_credentials.xml" value="0.20416666666666666" />
         <entry key="..\:/AndroidStudioProjects/design_signin_signup/app/src/main/res/layout/activity_main.xml" value="0.19010416666666666" />
         <entry key="..\:/AndroidStudioProjects/design_signin_signup/app/src/main/res/layout/activity_sign_in.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/design_signin_signup/app/src/main/res/layout/blank_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/design_signin_signup/app/src/main/res/layout/fragment_initial.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/design_signin_signup/app/src/main/res/layout/fragment_sign_in.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/design_signin_signup/app/src/main/res/layout/fragment_sign_up.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/design_signin_signup/app/src/main/res/layout/sign_up_fragment.xml" value="0.20416666666666666" />
       </map>
     </option>
   </component>
